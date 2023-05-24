@@ -1,0 +1,574 @@
+[I 16:02:57.317 NotebookApp] 把notebook服务器的cookie密码写入 /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[C 16:02:57.478 NotebookApp] 不建议以root身份运行。请使用 --allow-root 绕过。
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[W 16:17:15.496 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[C 16:17:15.497 NotebookApp] 不建议以root身份运行。请使用 --allow-root 绕过。
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+usage: jupyter-notebook [-h] [--debug] [--show-config] [--show-config-json]
+                        [--generate-config] [-y] [--no-browser] [--no-mathjax]
+                        [--allow-root] [--autoreload] [--script] [--no-script]
+                        [--log-level NotebookApp.log_level]
+                        [--config NotebookApp.config_file]
+                        [--ip NotebookApp.ip] [--port NotebookApp.port]
+                        [--port-retries NotebookApp.port_retries]
+                        [--sock NotebookApp.sock]
+                        [--sock-mode NotebookApp.sock_mode]
+                        [--transport KernelManager.transport]
+                        [--keyfile NotebookApp.keyfile]
+                        [--certfile NotebookApp.certfile]
+                        [--client-ca NotebookApp.client_ca]
+                        [--notebook-dir NotebookApp.notebook_dir]
+                        [--browser NotebookApp.browser]
+                        [--pylab [NotebookApp.pylab]]
+                        [--gateway-url GatewayClient.url]
+                        [extra_args ...]
+jupyter-notebook: error: unrecognized arguments: --alow-root
+[W 16:18:25.062 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 16:18:25.064 NotebookApp] notebooks 运行所在的本地路径: /root/caoduanxin/jupyter
+[I 16:18:25.064 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 16:18:25.064 NotebookApp] http://iZbp1dtqer7run75333n3fZ:9000/?token=ada31b47afcb309c25c29433ddde2ec60e3ee6a057b44ee1
+[I 16:18:25.064 NotebookApp]  or http://127.0.0.1:9000/?token=ada31b47afcb309c25c29433ddde2ec60e3ee6a057b44ee1
+[I 16:18:25.064 NotebookApp] 使用 Control-C 停止此服务器并关闭所有内核（连续操作两次便可跳过确认界面）。
+[C 16:18:25.066 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-25702-open.html
+    Or copy and paste one of these URLs:
+        http://iZbp1dtqer7run75333n3fZ:9000/?token=ada31b47afcb309c25c29433ddde2ec60e3ee6a057b44ee1
+     or http://127.0.0.1:9000/?token=ada31b47afcb309c25c29433ddde2ec60e3ee6a057b44ee1
+[I 16:18:39.871 NotebookApp] 302 GET / (106.11.34.243) 0.340000ms
+[I 16:18:39.903 NotebookApp] 302 GET /tree? (106.11.34.243) 0.340000ms
+[W 16:19:13.246 NotebookApp] 401 POST /login?next=%2Ftree%3F (106.11.34.243) 1.340000ms referer=http://121.40.190.18:9000/login?next=%2Ftree%3F
+[W 16:20:50.298 NotebookApp] 401 POST /login?next=%2Ftree%3F (106.11.34.243) 1.460000ms referer=http://121.40.190.18:9000/login?next=%2Ftree%3F
+[W 16:20:50.299 NotebookApp] 401 POST /login?next=%2Ftree%3F (106.11.34.243) 1.010000ms referer=http://121.40.190.18:9000/login?next=%2Ftree%3F
+[C 16:21:14.125 NotebookApp] 接受信号 15, 正在停止
+[I 16:21:14.125 NotebookApp] 关闭 0 内核
+[I 16:21:14.126 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[W 16:24:50.836 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 16:24:50.838 NotebookApp] notebooks 运行所在的本地路径: /root/caoduanxin/jupyter
+[I 16:24:50.838 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 16:24:50.838 NotebookApp] http://iZbp1dtqer7run75333n3fZ:9000/
+[I 16:24:50.838 NotebookApp] 使用 Control-C 停止此服务器并关闭所有内核（连续操作两次便可跳过确认界面）。
+[W 16:25:00.221 NotebookApp] 401 POST /login?next=%2Ftree%3F (106.11.34.243) 39.850000ms referer=http://121.40.190.18:9000/login?next=%2Ftree%3F
+[W 16:25:05.029 NotebookApp] Not allowing login redirect to '/tree?'
+[I 16:25:05.030 NotebookApp] 302 POST /login?next=%2Ftree%3F (106.11.34.243) 18.900000ms
+[I 16:25:05.061 NotebookApp] 302 GET / (106.11.34.243) 0.260000ms
+[I 16:25:16.089 NotebookApp] Creating new notebook in 
+[I 16:25:16.118 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[I 16:25:18.839 NotebookApp] Kernel started: 10d58179-3abd-4afe-b1c2-9234c9046426, name: python3
+[I 16:27:18.873 NotebookApp] Saving file at /test_prompt.ipynb
+/root/miniconda3/lib/python3.10/site-packages/nbformat/__init__.py:129: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/root/miniconda3/lib/python3.10/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 16:39:19.188 NotebookApp] Saving file at /test_prompt.ipynb
+[I 16:41:18.900 NotebookApp] Saving file at /test_prompt.ipynb
+[W 16:41:19.879 NotebookApp] WebSocket ping timeout after 119973 ms.
+[I 16:41:24.882 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 16:41:26.111 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 16:43:18.883 NotebookApp] Saving file at /test_prompt.ipynb
+[I 16:45:19.083 NotebookApp] Saving file at /test_prompt.ipynb
+[I 16:47:18.876 NotebookApp] Saving file at /test_prompt.ipynb
+[I 16:49:19.044 NotebookApp] Saving file at /test_prompt.ipynb
+[W 16:49:26.118 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 16:49:31.120 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 16:49:32.210 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 16:52:24.875 NotebookApp] Creating new notebook in 
+[I 16:52:25.978 NotebookApp] Kernel started: bd7a1e23-f3c5-4f77-917a-2d6a721dc02d, name: python3
+[I 16:53:19.379 NotebookApp] Saving file at /test_prompt.ipynb
+[I 16:54:26.036 NotebookApp] Saving file at /未命名.ipynb
+[I 16:56:26.096 NotebookApp] Saving file at /未命名.ipynb
+[W 17:56:27.333 NotebookApp] WebSocket ping timeout after 119961 ms.
+[W 17:56:32.213 NotebookApp] WebSocket ping timeout after 119941 ms.
+[I 17:56:32.334 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 17:56:34.249 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 17:56:37.218 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 17:56:39.198 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 18:13:16.073 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 18:13:16.076 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 18:13:22.095 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 18:13:22.163 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[W 18:14:52.126 NotebookApp] WebSocket ping timeout after 90030 ms.
+[W 18:14:52.164 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 18:14:57.132 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 18:14:57.164 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 18:15:08.196 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 18:15:08.267 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[W 18:16:38.219 NotebookApp] WebSocket ping timeout after 90023 ms.
+[W 18:16:38.267 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 18:16:43.222 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 18:16:43.268 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 18:39:51.705 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 18:39:53.156 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[W 18:41:21.720 NotebookApp] WebSocket ping timeout after 90014 ms.
+[W 18:41:23.156 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 18:41:26.724 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 18:41:28.159 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 18:50:23.558 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 18:50:24.852 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[W 18:51:53.570 NotebookApp] WebSocket ping timeout after 90011 ms.
+[W 18:51:54.854 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 18:51:58.574 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 18:51:59.856 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 18:52:00.563 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 18:52:01.567 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[W 19:12:30.592 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 19:12:31.569 NotebookApp] WebSocket ping timeout after 119966 ms.
+[I 19:12:35.597 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 19:12:36.569 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 19:12:37.683 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 19:12:38.573 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 20:31:46.431 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 20:31:46.439 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 20:31:47.663 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 20:31:47.741 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[W 20:33:17.693 NotebookApp] WebSocket ping timeout after 90030 ms.
+[W 20:33:17.742 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 20:33:22.694 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 20:33:22.743 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 20:34:24.864 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 20:34:25.868 NotebookApp] Restoring connection for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[W 20:35:54.892 NotebookApp] WebSocket ping timeout after 90028 ms.
+[W 20:35:55.870 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 20:35:59.897 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 20:36:00.871 NotebookApp] Starting buffering for 10d58179-3abd-4afe-b1c2-9234c9046426:53c792cf917a4f7cad2a7f2dc024b05c
+[I 09:50:03.878 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[W 10:06:33.905 NotebookApp] WebSocket ping timeout after 119971 ms.
+[I 10:06:38.910 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 10:06:39.999 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[W 10:14:40.029 NotebookApp] WebSocket ping timeout after 119973 ms.
+[I 10:14:45.035 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 10:14:46.755 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 10:28:28.765 NotebookApp] Saving file at /未命名.ipynb
+[I 10:35:29.994 NotebookApp] Saving file at /未命名.ipynb
+[I 10:38:58.871 NotebookApp] Saving file at /未命名.ipynb
+[I 10:42:28.912 NotebookApp] Saving file at /未命名.ipynb
+[I 10:45:59.862 NotebookApp] Saving file at /未命名.ipynb
+[I 10:46:57.689 NotebookApp] Saving file at /未命名.ipynb
+[I 10:47:40.463 NotebookApp] Saving file at /未命名.ipynb
+[I 10:49:28.890 NotebookApp] Saving file at /未命名.ipynb
+[I 10:50:24.193 NotebookApp] Saving file at /未命名.ipynb
+[I 10:51:07.321 NotebookApp] Saving file at /未命名.ipynb
+[I 10:52:58.864 NotebookApp] Saving file at /未命名.ipynb
+[I 10:56:29.547 NotebookApp] Saving file at /未命名.ipynb
+[I 11:38:30.119 NotebookApp] Saving file at /未命名.ipynb
+[I 11:42:00.948 NotebookApp] Saving file at /未命名.ipynb
+[I 12:02:59.645 NotebookApp] Saving file at /未命名.ipynb
+[I 12:03:40.139 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 12:03:40.466 NotebookApp] Kernel restarted: bd7a1e23-f3c5-4f77-917a-2d6a721dc02d
+[I 12:03:40.541 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[I 12:03:41.042 NotebookApp] Replaying 3 buffered messages
+[I 12:05:53.930 NotebookApp] Saving file at /未命名.ipynb
+[I 12:05:54.024 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:392d84861bf5459c88bde3d2724f4da5
+[W 12:05:54.418 NotebookApp] Notebook 未命名.ipynb is not trusted
+[I 12:07:57.853 NotebookApp] Saving file at /未命名.ipynb
+[W 12:09:24.921 NotebookApp] WebSocket ping timeout after 119950 ms.
+[I 12:09:29.923 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[I 12:09:31.918 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[W 12:44:31.940 NotebookApp] WebSocket ping timeout after 119961 ms.
+[I 12:44:36.946 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[I 12:44:39.338 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[W 12:46:09.369 NotebookApp] WebSocket ping timeout after 90030 ms.
+[I 12:46:14.369 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[I 12:46:16.179 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[W 13:47:16.200 NotebookApp] WebSocket ping timeout after 119963 ms.
+[I 13:47:21.205 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[I 13:47:23.139 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[W 14:03:23.159 NotebookApp] WebSocket ping timeout after 119963 ms.
+[I 14:03:28.164 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[I 14:03:29.495 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[I 14:51:58.186 NotebookApp] Saving file at /未命名.ipynb
+[I 14:53:09.502 NotebookApp] Saving file at /未命名.ipynb
+[I 14:53:54.981 NotebookApp] Saving file at /未命名.ipynb
+2023-05-23 14:53:59.179947: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-05-23 14:53:59.226678: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-05-23 14:53:59.833036: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 14:55:55.101 NotebookApp] Saving file at /未命名.ipynb
+[I 14:57:54.937 NotebookApp] Saving file at /未命名.ipynb
+[I 14:57:55.316 NotebookApp] Saving file at /未命名.ipynb
+[I 14:59:54.940 NotebookApp] Saving file at /未命名.ipynb
+[I 15:01:54.947 NotebookApp] Saving file at /未命名.ipynb
+[I 15:03:54.960 NotebookApp] Saving file at /未命名.ipynb
+[I 15:05:56.236 NotebookApp] Saving file at /未命名.ipynb
+[I 15:15:55.092 NotebookApp] Saving file at /未命名.ipynb
+[I 15:16:03.172 NotebookApp] Saving file at /未命名.ipynb
+[I 15:16:27.596 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:9cdf0bef6e474ff9bbbdd5e3f4627779
+[W 15:16:28.010 NotebookApp] Notebook 未命名.ipynb is not trusted
+[E 15:16:28.676 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 539, in write
+        self._handle_write()
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+    AssertionError
+[E 15:16:28.677 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 634, in _handle_events
+        self._handle_recv()
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 663, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 539, in write
+        self._handle_write()
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+    AssertionError
+[E 15:16:28.677 NotebookApp] Exception in callback functools.partial(<function ZMQStream._update_handler.<locals>.<lambda> at 0x7fb6de3f1fc0>)
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/ioloop.py", line 738, in _run_callback
+        ret = callback()
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 718, in <lambda>
+        self.io_loop.add_callback(lambda: self._handle_events(self.socket, 0))
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 634, in _handle_events
+        self._handle_recv()
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 663, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 539, in write
+        self._handle_write()
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+    AssertionError
+[I 15:17:28.847 NotebookApp] Saving file at /未命名.ipynb
+[I 15:17:28.853 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:551a8661b888493a8348f88611d2947c
+[I 15:17:29.895 NotebookApp] Discarding 52 buffered messages for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:551a8661b888493a8348f88611d2947c
+[E 15:17:29.926 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 539, in write
+        self._handle_write()
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+    AssertionError
+[E 15:17:29.926 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 634, in _handle_events
+        self._handle_recv()
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 663, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 539, in write
+        self._handle_write()
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+    AssertionError
+[E 15:17:29.926 NotebookApp] Exception in callback functools.partial(<function ZMQStream._update_handler.<locals>.<lambda> at 0x7fb6de3f1090>)
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/ioloop.py", line 738, in _run_callback
+        ret = callback()
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 718, in <lambda>
+        self.io_loop.add_callback(lambda: self._handle_events(self.socket, 0))
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 634, in _handle_events
+        self._handle_recv()
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 663, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+      File "/root/miniconda3/lib/python3.10/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/root/miniconda3/lib/python3.10/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 539, in write
+        self._handle_write()
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+    AssertionError
+[I 15:17:39.028 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:94ae01c67f5743008fbe5e67fc2d4bb1
+[I 15:17:41.059 NotebookApp] Kernel restarted: bd7a1e23-f3c5-4f77-917a-2d6a721dc02d
+[I 15:17:41.129 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:94ae01c67f5743008fbe5e67fc2d4bb1
+[I 15:17:41.631 NotebookApp] Replaying 18 buffered messages
+2023-05-23 15:17:56.985156: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-05-23 15:17:57.033861: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-05-23 15:17:57.623058: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 15:19:29.873 NotebookApp] Saving file at /未命名.ipynb
+[I 15:21:30.204 NotebookApp] Saving file at /未命名.ipynb
+[I 15:22:10.607 NotebookApp] Saving file at /未命名.ipynb
+[I 15:22:10.642 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:94ae01c67f5743008fbe5e67fc2d4bb1
+[E 15:22:11.717 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 695, in _handle_events
+        self._handle_write()
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+    AssertionError
+Exception in callback None()
+handle: <Handle cancelled>
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/root/miniconda3/lib/python3.10/site-packages/tornado/platform/asyncio.py", line 192, in _handle_events
+    handler_func(fileobj, events)
+  File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 695, in _handle_events
+    self._handle_write()
+  File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 965, in _handle_write
+    self._write_buffer.advance(num_bytes)
+  File "/root/miniconda3/lib/python3.10/site-packages/tornado/iostream.py", line 182, in advance
+    assert 0 < size <= self._size
+AssertionError
+[W 15:22:11.719 NotebookApp] zmq message arrived on closed channel
+[I 15:22:11.719 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:1a910bf15a77400da85a5e05563c5b30
+[W 15:22:11.719 NotebookApp] zmq message arrived on closed channel
+[I 15:22:13.029 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:1a910bf15a77400da85a5e05563c5b30
+[I 15:22:13.065 NotebookApp] Replaying 3 buffered messages
+[I 15:24:12.109 NotebookApp] Saving file at /未命名.ipynb
+[W 15:24:43.056 NotebookApp] WebSocket ping timeout after 119990 ms.
+[I 15:24:48.058 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:1a910bf15a77400da85a5e05563c5b30
+[I 15:24:50.483 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:1a910bf15a77400da85a5e05563c5b30
+[I 15:28:11.157 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:1a910bf15a77400da85a5e05563c5b30
+[I 15:30:12.278 NotebookApp] Saving file at /未命名.ipynb
+[I 15:36:12.185 NotebookApp] Saving file at /未命名.ipynb
+[I 15:41:01.369 NotebookApp] Saving file at /未命名.ipynb
+[W 15:47:12.271 NotebookApp] WebSocket ping timeout after 119994 ms.
+[I 15:47:17.277 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:600463686032459c99c8c5006aabc2d7
+[I 15:47:18.418 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:600463686032459c99c8c5006aabc2d7
+[W 15:49:48.444 NotebookApp] WebSocket ping timeout after 119984 ms.
+[I 15:49:53.449 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:600463686032459c99c8c5006aabc2d7
+[I 15:49:54.731 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:600463686032459c99c8c5006aabc2d7
+[I 15:52:12.146 NotebookApp] Saving file at /未命名.ipynb
+[I 16:36:12.220 NotebookApp] Saving file at /未命名.ipynb
+[I 16:38:12.166 NotebookApp] Saving file at /未命名.ipynb
+[I 16:42:12.246 NotebookApp] Saving file at /未命名.ipynb
+[I 16:44:12.804 NotebookApp] Saving file at /未命名.ipynb
+[I 16:46:12.285 NotebookApp] Saving file at /未命名.ipynb
+[W 16:52:24.761 NotebookApp] WebSocket ping timeout after 119946 ms.
+[I 16:52:29.767 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:600463686032459c99c8c5006aabc2d7
+[I 16:52:31.753 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:600463686032459c99c8c5006aabc2d7
+[I 17:00:12.274 NotebookApp] Saving file at /未命名.ipynb
+[I 17:02:12.436 NotebookApp] Saving file at /未命名.ipynb
+[I 17:04:12.147 NotebookApp] Saving file at /未命名.ipynb
+[I 17:06:12.155 NotebookApp] Saving file at /未命名.ipynb
+[I 17:08:12.219 NotebookApp] Saving file at /未命名.ipynb
+[I 17:11:55.187 NotebookApp] Saving file at /未命名.ipynb
+[I 17:15:35.621 NotebookApp] Saving file at /未命名.ipynb
+[I 17:15:43.344 NotebookApp] Saving file at /未命名.ipynb
+[I 17:17:47.050 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel bd7a1e23-f3c5-4f77-917a-2d6a721dc02d restarted
+[I 17:17:55.803 NotebookApp] Saving file at /未命名.ipynb
+[I 17:17:55.884 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:600463686032459c99c8c5006aabc2d7
+[W 17:17:56.331 NotebookApp] Notebook 未命名.ipynb is not trusted
+2023-05-23 17:18:19.864059: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-05-23 17:18:20.874329: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-05-23 17:18:22.487834: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 17:19:56.651 NotebookApp] Saving file at /未命名.ipynb
+[I 17:21:56.674 NotebookApp] Saving file at /未命名.ipynb
+[I 17:22:26.412 NotebookApp] Saving file at /未命名.ipynb
+[I 17:22:33.710 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:c229985b7a9b4c1889809f33e5a4fe82
+[I 17:24:34.857 NotebookApp] Saving file at /未命名.ipynb
+[I 17:25:46.762 NotebookApp] Saving file at /未命名.ipynb
+[I 17:26:00.348 NotebookApp] Saving file at /未命名.ipynb
+[I 17:26:06.021 NotebookApp] Saving file at /未命名.ipynb
+[I 17:27:34.210 NotebookApp] Saving file at /未命名.ipynb
+[I 17:27:37.222 NotebookApp] Saving file at /未命名.ipynb
+[I 17:28:08.286 NotebookApp] Saving file at /未命名.ipynb
+[I 17:28:21.931 NotebookApp] Saving file at /未命名.ipynb
+[I 17:28:28.211 NotebookApp] Saving file at /未命名.ipynb
+[I 17:28:29.853 NotebookApp] Saving file at /未命名.ipynb
+[I 17:28:33.457 NotebookApp] Saving file at /未命名.ipynb
+[I 17:28:37.341 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:d67440da8430458e83b5a09eefacba69
+[I 17:28:47.207 NotebookApp] 302 GET / (106.11.34.228) 0.340000ms
+[W 17:28:53.915 NotebookApp] Notebook 未命名.ipynb is not trusted
+[I 17:28:56.949 NotebookApp] Saving file at /未命名.ipynb
+[W 17:28:56.949 NotebookApp] Notebook 未命名.ipynb is not trusted
+[I 17:29:08.106 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:85e45d1d777b467d807e6d73975eaf52
+[I 17:29:11.037 NotebookApp] Kernel restarted: bd7a1e23-f3c5-4f77-917a-2d6a721dc02d
+[I 17:29:11.198 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:85e45d1d777b467d807e6d73975eaf52
+[I 17:29:12.201 NotebookApp] Replaying 3 buffered messages
+2023-05-23 17:29:33.089812: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-05-23 17:29:33.137016: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-05-23 17:29:34.517525: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 17:30:55.032 NotebookApp] Saving file at /chatbot.ipynb
+[W 17:30:55.032 NotebookApp] Notebook chatbot.ipynb is not trusted
+[I 17:32:54.938 NotebookApp] Saving file at /chatbot.ipynb
+[I 17:34:55.819 NotebookApp] Saving file at /chatbot.ipynb
+[W 17:58:41.227 NotebookApp] WebSocket ping timeout after 119889 ms.
+[I 17:58:46.230 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:85e45d1d777b467d807e6d73975eaf52
+[I 17:58:47.802 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:85e45d1d777b467d807e6d73975eaf52
+[W 18:02:17.824 NotebookApp] WebSocket ping timeout after 119966 ms.
+[I 18:02:22.828 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:85e45d1d777b467d807e6d73975eaf52
+[I 18:02:24.883 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:85e45d1d777b467d807e6d73975eaf52
+[I 18:45:28.570 NotebookApp] Saving file at /chatbot.ipynb
+[I 18:46:14.450 NotebookApp] Saving file at /chatbot.ipynb
+[I 18:46:14.507 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:85e45d1d777b467d807e6d73975eaf52
+[W 18:46:14.975 NotebookApp] Notebook chatbot.ipynb is not trusted
+[I 18:48:18.256 NotebookApp] Saving file at /chatbot.ipynb
+[I 18:49:00.249 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:15af981ef11b452692b3a048d588d8d6
+[I 18:49:03.477 NotebookApp] Kernel restarted: bd7a1e23-f3c5-4f77-917a-2d6a721dc02d
+[I 18:49:03.543 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:15af981ef11b452692b3a048d588d8d6
+[I 18:49:05.547 NotebookApp] Replaying 3 buffered messages
+[W 18:54:03.572 NotebookApp] WebSocket ping timeout after 119886 ms.
+[I 18:54:08.576 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:15af981ef11b452692b3a048d588d8d6
+[I 18:54:10.107 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:15af981ef11b452692b3a048d588d8d6
+[I 19:11:48.829 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 19:11:57.675 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:15af981ef11b452692b3a048d588d8d6
+2023-05-23 19:19:31.741913: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-05-23 19:19:31.843823: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-05-23 19:19:33.360108: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 19:19:58.759 NotebookApp] Saving file at /chatbot.ipynb
+[I 19:21:58.724 NotebookApp] Saving file at /chatbot.ipynb
+[I 20:13:30.245 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:597afb4ea87f41cc815ebaf7ffdddbee
+[I 20:13:31.932 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:597afb4ea87f41cc815ebaf7ffdddbee
+[W 20:15:01.960 NotebookApp] WebSocket ping timeout after 90028 ms.
+[I 20:15:06.966 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:597afb4ea87f41cc815ebaf7ffdddbee
+[I 13:44:20.404 NotebookApp] 302 GET / (106.11.34.237) 0.280000ms
+[I 13:56:27.101 NotebookApp] Saving file at /chatbot.ipynb
+[I 13:58:26.789 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:00:26.851 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:05:49.309 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:06:09.333 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:06:14.470 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:07:15.098 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:07:16.994 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:07:18.898 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:08:26.798 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:10:26.810 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:11:31.642 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:12:13.583 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:12:16.038 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:12:26.801 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:14:27.820 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:16:27.761 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:18:26.826 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:20:26.804 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:36:11.224 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:6ac929a1efcf493d850b4ec4400b7a80
+[I 14:36:13.783 NotebookApp] Kernel restarted: bd7a1e23-f3c5-4f77-917a-2d6a721dc02d
+[I 14:36:13.890 NotebookApp] Restoring connection for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:6ac929a1efcf493d850b4ec4400b7a80
+[I 14:36:14.391 NotebookApp] Replaying 3 buffered messages
+[I 14:36:20.101 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:36:20.155 NotebookApp] Starting buffering for bd7a1e23-f3c5-4f77-917a-2d6a721dc02d:6ac929a1efcf493d850b4ec4400b7a80
+[W 14:36:20.591 NotebookApp] Notebook chatbot.ipynb is not trusted
+2023-05-24 14:37:47.423199: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-05-24 14:37:47.472041: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-05-24 14:37:48.059425: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 14:38:21.085 NotebookApp] Saving file at /chatbot.ipynb
+[I 14:40:20.998 NotebookApp] Saving file at /chatbot.ipynb
