@@ -1,1 +1,4 @@
-nohup.out .ipynb_checkpoints
+nohup.out 
+.ipynb_checkpoints
+clip_cn_rn50.pt
+
